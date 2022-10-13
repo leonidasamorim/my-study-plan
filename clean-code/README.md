@@ -26,4 +26,4 @@ Ao ler um código limpo nada vai lhe surpreender. Não será preciso muito esfor
 <b>
 ## 2 -  Nomes signifificativos
 
-2.1. <b>Class, função e variáveis </b> - O nome delas devem está de acordo com o nome do objeto criado.
+2.1. <b>Class, função e variáveis </b> - O nome delas devem está ser escritos de forma legível e entendivel.
