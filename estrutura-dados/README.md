@@ -1,6 +1,6 @@
-​​# :rocket: ESTRUTURA DE DADOS - ED 
+​​# :rocket: ESTRUTURA DE DADOS - ED
 
-Abaixo contém um resumo básico em ```Ruby``` sobre ED, nos tópicos: Arrays, Matrizes, Pilhas, Filas e Árvores 
+Abaixo contém um resumo básico em ```Ruby``` sobre ED, nos tópicos: Arrays, Matrizes, Pilhas, Filas, Árvores, Mapas e Conjuntos.
 
 
 ## 1 -  Array 
