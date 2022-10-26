@@ -29,7 +29,10 @@ users = [['Klark', 'Kent', 'Planeta Diário'],
 Uma pilha é uma coleção ordenada de itens baseado no princípio ```L.I.F.O``` (Last In First Out). ```Ou seja, o último elemento a entrar na pilha é o primeiro a sair.```. 
 Tanto a adição quanto a remoção dos itens da pilha acontece na mesma extremidade de da pilha, chamada ```"topo"```. A pilha é bem parecida com o Array, porém temos mais controle sobre adição e remoção dessa estrutura.
 
-![alt text](pilha.png)
+<div style="width: 70%;">
+
+  ![](pilha.png)
+</div>
 
 Exemplo: 
 
@@ -60,13 +63,22 @@ queue.pop # pop 2
 
 Exemplo em javascript: 
 
+<div style="width: 60%;">
+
 ![alt text](fila-class.png)
+</div>
 
 Agora adicionamos as pessoas a fila
+<div style="width: 60%;">
+
 ![alt text](fila-enqueue.png)
+<div>
 
 Agora removemos as pessoas a fila
+<div style="width: 100%;">
+
 ![alt text](fila-dequeue.png)
+</div>
 
 ## 3 -  Árvore 
 Diferente das estruturas mencionadas, a árvore é uma coleção não ordenada de itens. Um modelo abstrato de uma estrutura hierárquica. Árvore genealógica é um exemplo. 
@@ -76,7 +88,11 @@ As árvores são estruturas de dados constituídas de ```Nós```, em um relacion
 - Nos Internos: B, E, F, G e D
 - Nós Externos: I, J, K, C, L e H
 
+<div style="width: 80%;">
+
 ![alt text](arvore.png)
+
+</div>
 
 Exemplo de árvores muito usado Árvore Binária e Árvore Binária de Busca, também chamado ```BST - Binary Search Tree```
 - Árvore Binária: insere seus nós sem nenhuma regra definida.
@@ -84,13 +100,23 @@ Exemplo de árvores muito usado Árvore Binária e Árvore Binária de Busca, ta
 
 Exemplo: 
 
+<div style="width: 70%;">
+
 ![alt text](arvore-class.png)
+</div>
 
 Instanciando valores a árvore:
+
+<div style="width: 70%;">
+
 ![alt text](arvore-instancia.png)
+</div>
 
 Resultado visual:
+<div style="width: 70%;">
+
 ![alt text](arvore-montada.png)
+</div>
 
 
 ## 4 -  Mapas
