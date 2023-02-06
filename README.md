@@ -1,1 +1,1 @@
-# my-study-plan
+# my-study-plan - v.2
